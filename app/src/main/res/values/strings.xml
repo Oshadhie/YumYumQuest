@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">YumYumQuest</string>
+
+    <!--Onboard Screens -->
+    <string name="first_Onboard1">Do you love to cook?</string>
+    <string name="first_Onboard2">Yes. I do</string>
+    <string name="second_Onboard1">Search for favorite food all over the World…</string>
+    <string name="second_Onboard2">Next</string>
+    <string name="third_Onboard1">Cook and Share your own happy meal…</string>
+    <string name="third_Onboard2">Get Start</string>
+
+    <!--main other Screens -->
+    <string name="sri_lanka">Sri Lankan Recipe</string>
+    <string name="india">Indian Recipe</string>
+    <string name="italy">Italian Recipe</string>
+    <string name="korea">Korean Recipe</string>
+    <string name="my">My Favorite Recipe</string>
+
+    <!--recipe Screens -->
+    <string name="in">Ingredients</string>
+    <string name="de">Directions</string>
+    <string name="SL1">Fish Curry</string>
+    <string name="SL2">Watalappan</string>
+    <string name="SL3">Pol Sambola</string>
+    <string name="IN1">Butter Chicken</string>
+    <string name="IN2">Alo Samosa</string>
+    <string name="IN3">Pani Puri</string>
+
+    <!--profile Screens -->
+    <string name="name">Name : Ashi Vihanga</string>
+    <string name="birth">Birthday : 2000.06.18</string>
+    <string name="age">Age : 24 years</string>
+    <string name="myR">My Recipe</string>
+    <string name="change">Change Details</string>
+    <string name="share">Share My Recipe</string>
+    <string name="lang">Change Language</string>
+    <string name="term">Terms and Conditions</string>
+    <string name="helps">Helps</string>
+
+
+</resources>
